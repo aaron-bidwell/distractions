@@ -2,6 +2,8 @@ google.com/*q=*elon + musk*
 google.com/*q=*joe+rogan*
 google.com/*q=*trump*
 google.com/*q=*dave+chappelle*
+google.com/*q=*bernie+sanders*
+google.com/*q=*joe*
 google.com/*q=*news*
 
 4chan.org
